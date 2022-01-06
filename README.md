@@ -24,7 +24,7 @@ author: "Krish Bhardwaj"
 |18 |Maximum path sum I                                                                                                                                                       |1022864400|147239   | ✅         |
 |19 |Counting Sundays                                                                                                                                                         |1024074000|136794   | ✅         |
 |20 |Factorial digit sum                                                                                                                                                      |1024678800|200931   | ✅         |
-|21 |Amicable numbers                                                                                                                                                         |1025888400|148586   |0           |
+|21 |Amicable numbers                                                                                                                                                         |1025888400|148586   | ✅         |
 |22 |Names scores                                                                                                                                                             |1027098000|136592   |0           |
 |23 |Non-abundant sums                                                                                                                                                        |1028307600|105893   |0           |
 |24 |Lexicographic permutations                                                                                                                                               |1029517200|116449   |0           |
