@@ -1,0 +1,1 @@
+print(sum((i + 1) * (ord(c) - ord('A') + 1) for (i, name) in enumerate(sorted(list(open("P22_names.txt", "r").read().replace("\"", "").split(",")))) for c in name))
