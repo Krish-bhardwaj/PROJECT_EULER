@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc5457ef-5b32-4a0b-b701-67938c96a6c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/P28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P38.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,6 +200,21 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
