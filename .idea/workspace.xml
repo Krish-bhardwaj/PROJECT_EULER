@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc5457ef-5b32-4a0b-b701-67938c96a6c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/P31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P38.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P31.py" beforeDir="false" afterPath="$PROJECT_DIR$/P31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P32.py" beforeDir="false" afterPath="$PROJECT_DIR$/P32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P33.py" beforeDir="false" afterPath="$PROJECT_DIR$/P33.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P34.py" beforeDir="false" afterPath="$PROJECT_DIR$/P34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P35.py" beforeDir="false" afterPath="$PROJECT_DIR$/P35.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P36.py" beforeDir="false" afterPath="$PROJECT_DIR$/P36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P37.py" beforeDir="false" afterPath="$PROJECT_DIR$/P37.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P38.py" beforeDir="false" afterPath="$PROJECT_DIR$/P38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P39.py" beforeDir="false" afterPath="$PROJECT_DIR$/P39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P40.py" beforeDir="false" afterPath="$PROJECT_DIR$/P40.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +40,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.P30">
-    <configuration name="P26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.P40">
+    <configuration name="P36" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROJECT EULER" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P26.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P36.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROJECT EULER" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P27.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P37.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROJECT EULER" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P28.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P38.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P39" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROJECT EULER" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P29.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P39.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="P30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="P40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PROJECT EULER" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P40.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,19 +169,19 @@
     </configuration>
     <list>
       <item itemvalue="Python..py" />
-      <item itemvalue="Python.P26" />
-      <item itemvalue="Python.P27" />
-      <item itemvalue="Python.P28" />
-      <item itemvalue="Python.P29" />
-      <item itemvalue="Python.P30" />
+      <item itemvalue="Python.P36" />
+      <item itemvalue="Python.P37" />
+      <item itemvalue="Python.P38" />
+      <item itemvalue="Python.P39" />
+      <item itemvalue="Python.P40" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.P30" />
-        <item itemvalue="Python.P29" />
-        <item itemvalue="Python.P28" />
-        <item itemvalue="Python.P27" />
-        <item itemvalue="Python.P26" />
+        <item itemvalue="Python.P40" />
+        <item itemvalue="Python.P39" />
+        <item itemvalue="Python.P38" />
+        <item itemvalue="Python.P37" />
+        <item itemvalue="Python.P36" />
       </list>
     </recent_temporary>
   </component>
