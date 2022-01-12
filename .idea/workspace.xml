@@ -2,14 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc5457ef-5b32-4a0b-b701-67938c96a6c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/P51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P73.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P80.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P41.py" beforeDir="false" afterPath="$PROJECT_DIR$/P41.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P42.py" beforeDir="false" afterPath="$PROJECT_DIR$/P42.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P43.py" beforeDir="false" afterPath="$PROJECT_DIR$/P43.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P44.py" beforeDir="false" afterPath="$PROJECT_DIR$/P44.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P45.py" beforeDir="false" afterPath="$PROJECT_DIR$/P45.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P46.py" beforeDir="false" afterPath="$PROJECT_DIR$/P46.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P47.py" beforeDir="false" afterPath="$PROJECT_DIR$/P47.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
